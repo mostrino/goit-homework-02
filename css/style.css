@@ -9,7 +9,7 @@ button {
 }
 .logotype {
   color: var(--iris, #4d5ae5);
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
@@ -19,7 +19,7 @@ button {
 }
 .raleway-text {
   color: var(--navyblue, #2e2f42);
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
