@@ -17,3 +17,13 @@ button {
   letter-spacing: 0.54px;
   text-transform: uppercase;
 }
+.raleway-text {
+  color: var(--navyblue, #2e2f42);
+  font-family: Raleway;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 21px; /* 116.667% */
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+}
