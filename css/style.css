@@ -3,13 +3,18 @@ body {
   color: #434455;
   background-color: #ffffff;
 }
-.link {
+a {
   text-decoration: none;
 }
 .list {
   list-style-type: none;
 }
-button {
+button:hover{
+  color:#4D5AE5
+  cursor: pointer;
+}
+button:focus {
+  color:#404BBF
   cursor: pointer;
 }
 .logotype {
@@ -54,4 +59,15 @@ button {
   font-weight: 700;
   line-height: 1.07;
   letter-spacing: 0, 02em;
+}
+.tittle {
+  color: var(--navyblue, #2e2f42);
+  text-align: center;
+
+  /* Header 3 */
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
 }
