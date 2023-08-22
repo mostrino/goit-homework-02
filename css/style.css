@@ -59,6 +59,16 @@ box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 .adress-link:focus {
   color: #404bbf;
 }
+.adress{
+  color: var(--slate, #434455);
+
+/* Body */
+font-family: "Roboto", sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
 .main-tittle {
   color: var(--white, #fff);
   text-align: center;
