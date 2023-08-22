@@ -1,3 +1,8 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+}
 .link {
   text-decoration: none;
 }
@@ -34,4 +39,19 @@ button {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+.adress-link:hover,
+.adress-link:focus {
+  color: #404bbf;
+}
+.main-tittle {
+  color: var(--white, #fff);
+  text-align: center;
+
+  /* Header 1 */
+  font-family: "Roboto", sans-serif;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 1.07;
+  letter-spacing: 0, 02em;
 }
