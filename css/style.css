@@ -77,7 +77,7 @@ address {
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
-}  
+}
 .adress-phone {
   color: var(--slate, #434455);
 
@@ -87,8 +87,8 @@ address {
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
-}  
 }
+
 .main-tittle {
   color: var(--white, #fff);
   text-align: center;
