@@ -13,12 +13,12 @@ a:focus {
 .list {
   list-style-type: none;
 }
-button:hover,
-button:focus {
+.button:hover,
+.button:focus {
   color: #404bbf;
   cursor: pointer;
 }
-.button {
+button {
   background: var(--iris, #4d5ae5);
 }
 .button-icon {
