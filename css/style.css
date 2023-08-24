@@ -88,9 +88,12 @@ address {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+.hero {
+  background: var(--navyblue, #2e2f42);
+}
 
 .main-tittle {
-  color: var(--white, #fff);
+  color: var(--white, #ffffff);
   text-align: center;
 
   /* Header 1 */
@@ -98,7 +101,7 @@ address {
   font-size: 56px;
   font-weight: 700;
   line-height: 1.07;
-  letter-spacing: 0, 02em;
+  letter-spacing: 0.02em;
 }
 .main-tittle-item {
   color: var(--navyblue, #2e2f42);
