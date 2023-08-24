@@ -147,6 +147,19 @@ address {
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
+.raleway-name:hover,
+.raleway-namer:focus {
+  color: var(--iris, #4d5ae5);
+}
+.logotype-footer {
+  color: var(--iris, #4d5ae5);
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+}
 .footer {
   background: var(--navyblue, #2e2f42);
 }
@@ -159,4 +172,13 @@ address {
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+.raleway-name {
+  color: var(--navyblue, #f4f4fd);
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.16;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
 }
