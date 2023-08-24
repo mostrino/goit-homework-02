@@ -23,7 +23,7 @@ button {
 }
 .button-icon {
   color: var(--white, #fff);
-
+  background: var(--iris, #4d5ae5);
   /* Button Text */
   font-family: "Roboto", sans-serif;
   font-size: 16px;
