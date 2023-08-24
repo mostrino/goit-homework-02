@@ -149,7 +149,7 @@ address {
 }
 .raleway-name:hover,
 .raleway-namer:focus {
-  color: var(--iris, #4d5ae5);
+  color: var(--iris, #404bbf);
 }
 .logotype-footer {
   color: var(--iris, #4d5ae5);
