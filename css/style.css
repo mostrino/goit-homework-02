@@ -147,6 +147,9 @@ address {
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
+.footer {
+  background: var(--navyblue, #2e2f42);
+}
 .footer-text {
   color: var(--cloud, #f4f4fd);
 
