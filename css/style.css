@@ -18,10 +18,8 @@ a:focus {
   color: #404bbf;
   cursor: pointer;
 }
-button {
-  background: var(--iris, #4d5ae5);
-}
-.button-icon {
+
+.buttons {
   color: var(--white, #fff);
   background: var(--iris, #4d5ae5);
   /* Button Text */
