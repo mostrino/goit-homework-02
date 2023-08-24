@@ -18,9 +18,11 @@ button:focus {
   color: #404bbf;
   cursor: pointer;
 }
+button {
+  background: var(--iris, #4d5ae5);
+}
 .button-icon {
   color: var(--white, #fff);
-  background: var(--iris, #4d5ae5);
 
   /* Button Text */
   font-family: "Roboto", sans-serif;
@@ -29,6 +31,7 @@ button:focus {
   line-height: 1.5;
   letter-spacing: 0.04em;
 }
+
 .raleway-text:hover,
 .raleway-text:focus {
   color: #404bbf;
@@ -50,6 +53,10 @@ button:focus {
   line-height: 1.16;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+}
+.menu-link:hover,
+.menu-link:focus {
+  color: #404bbf;
 }
 .menu-link {
   color: var(--navyblue, #2e2f42);
