@@ -16,11 +16,11 @@ a:focus {
 }
 .buttons:hover,
 .buttons:focus {
-  color: #404bbf;
+  background: #404bbf;
   cursor: pointer;
 }
 
-.button {
+.buttons {
   color: var(--white, #fff);
   background: var(--iris, #4d5ae5);
   /* Button Text */
