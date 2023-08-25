@@ -14,8 +14,8 @@ a:focus {
 .list {
   list-style-type: none;
 }
-.buttons:hover,
-.buttons:focus {
+.button:hover,
+.button:focus {
   color: #404bbf;
   cursor: pointer;
 }
