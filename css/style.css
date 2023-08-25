@@ -20,7 +20,7 @@ a:focus {
   cursor: pointer;
 }
 
-.buttons {
+.button {
   color: var(--white, #fff);
   background: var(--iris, #4d5ae5);
   /* Button Text */
