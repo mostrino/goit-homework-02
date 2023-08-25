@@ -1,5 +1,6 @@
 body {
   font-family: "Roboto", sans-serif;
+  font-style: normal;
   color: #434455;
   background-color: #ffffff;
 }
@@ -13,8 +14,8 @@ a:focus {
 .list {
   list-style-type: none;
 }
-.button:hover,
-.button:focus {
+.buttons:hover,
+.buttons:focus {
   color: #404bbf;
   cursor: pointer;
 }
@@ -24,6 +25,7 @@ a:focus {
   background: var(--iris, #4d5ae5);
   /* Button Text */
   font-family: "Roboto", sans-serif;
+  font-style: normal;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
