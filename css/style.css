@@ -148,6 +148,9 @@ address {
 .our-team-tittle {
   background: var(--cloud, #f4f4fd);
 }
+.our-list {
+  background-color: #ffffff;
+}
 .our-team-tittle {
   color: var(--navyblue, #2e2f42);
   text-align: center;
