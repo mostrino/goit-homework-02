@@ -75,7 +75,7 @@ address {
 .adress-link:focus {
   color: #404bbf;
 }
-.adress-mail {
+.adress {
   color: var(--slate, #434455);
 
   /* Body */
@@ -85,7 +85,7 @@ address {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.adress-phone {
+.adress {
   color: var(--slate, #434455);
 
   /* Body */
