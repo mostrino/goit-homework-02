@@ -120,8 +120,8 @@ address {
   font-family: "Roboto", sans-serif;
   font-size: 20px;
   font-weight: 500;
-  line-height: 1.5;
-  letter-spacing: 0.002em;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 .tittle {
   color: var(--navyblue, #2e2f42);
@@ -162,7 +162,7 @@ address {
 }
 
 .portfolio-team-tittle {
-  background: #fff;
+  background: #ffffff;
 }
 .raleway-name:hover,
 .raleway-namer:focus {
